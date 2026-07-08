@@ -28,6 +28,7 @@ A curated collection of AI video generation tools, frameworks, and workflows —
 3. Google Veo 3
 4. [Deevid.ai](https://deevid.ai/)
 5. [Pika](https://pika.art/)
+6. [Podframes](https://github.com/Jellypod-Inc/podframes): open-source studio and CLI for generating two-host AI podcast videos.
 
 
 ## 5 Audio Generation
