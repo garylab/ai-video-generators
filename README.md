@@ -29,9 +29,11 @@ A curated collection of AI video generation tools, frameworks, and workflows —
 4. [Deevid.ai](https://deevid.ai/)
 5. [Pika](https://pika.art/)
 6. [Podframes](https://github.com/Jellypod-Inc/podframes): open-source studio and CLI for generating two-host AI podcast videos.
+7. [Pixwit](https://pixwit.ai/) — AI photo-to-video / meme dance effects
 
 
-## 5 Audio Generation
+
+## 4 Audio Generation
 1. ElevenLabs, Play.ht, or OpenAI TTS – lifelike AI voice-overs.
 2. Suno AI, Udio, or Soundraw – AI background music.
 3. Audacity or Adobe Podcast – sound cleanup and mixing.
@@ -40,3 +42,6 @@ A curated collection of AI video generation tools, frameworks, and workflows —
 ## 5 Editing
 1. CapCut
 2. Descript
+
+## 6 Talking-head / Avatar
+- [Talkinghead.pt](https://talkinghead.pt) - AI talking-head / avatar videos with lip-sync and European-Portuguese voice and voice cloning.
