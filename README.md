@@ -28,6 +28,7 @@ A curated collection of AI video generation tools, frameworks, and workflows —
 3. Google Veo 3
 4. [Deevid.ai](https://deevid.ai/)
 5. [Pika](https://pika.art/)
+6. [Pixwit](https://pixwit.ai/) — AI photo-to-video / meme dance effects
 
 
 ## 5 Audio Generation
